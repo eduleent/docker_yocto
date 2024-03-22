@@ -1,2 +1,2 @@
 # docker_yocto
-yocto build image via docker
+yocto build docker image
